@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 
 # Ignore virtual environments
+.env
 .env/
 
 # Ignore system files
