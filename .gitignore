@@ -23,4 +23,4 @@ build/
 # Ignore IDE and editor files
 .vscode/
 .idea/
-*.sublime-workspace
+*.sublime-workspace.env
